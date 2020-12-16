@@ -9,3 +9,5 @@
 본 데이터에서 [표준노드링크정보](http://nodelink.its.go.kr/) 해당 링크에 있습니다. 
 
 [KAIST CDSNLAB](http://cds.kaist.ac.kr/) 담당자 문의 email: hsm6911@kaist.ac.kr
+
+![map.png](map.png)
